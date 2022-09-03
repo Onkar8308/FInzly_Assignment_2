@@ -63,7 +63,6 @@ The Total amount displayed should be shown in expected format only.
 Print Trades -2 
 
 When user enters 2 , print the list of trades booked. The information must be printed as shown below
-
  
 
 TradeNo CurrencyPair CustomerName Amount   Rate 
